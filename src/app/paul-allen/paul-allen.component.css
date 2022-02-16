@@ -15,7 +15,7 @@ content {
   top: 50%;
   left: 50%;
   width: 50vw;
-  height: 40vh;
+  height: 50vh;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   border: 3px solid black;
